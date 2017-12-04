@@ -3,7 +3,7 @@
 
 count = 0
 
-with open('input.txt') as input:
+with open('input2.txt') as input:
     x = input.read().strip()
 
 for line in x.split('\n'):

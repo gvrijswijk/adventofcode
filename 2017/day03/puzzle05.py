@@ -21,4 +21,4 @@ def moves(value):
 
     print(steps)
 
-moves(312051)
+moves(277678)
