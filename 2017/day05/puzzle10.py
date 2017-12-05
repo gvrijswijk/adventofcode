@@ -1,5 +1,5 @@
 # Advent of Code 2017
-# Day 05; Puzzle 09
+# Day 05; Puzzle 10
 
 count = 0
 i = 0
