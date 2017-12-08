@@ -1,3 +1,6 @@
+# Advent of Code 2017
+# Day 07; Puzzle 14
+
 import re
 import sys
 
