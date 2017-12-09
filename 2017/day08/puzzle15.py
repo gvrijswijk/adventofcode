@@ -27,6 +27,6 @@ with open('input.txt') as input:
             v = evals(d.get(m.group(1), 0), int(m.group(3)), m.group(2))
             d[k] = v
 
-# Copied from
+# Copied from internet
 key = max(d.keys(), key=(lambda k: d[k]))
 print(key + ": " + str(d[key]))
