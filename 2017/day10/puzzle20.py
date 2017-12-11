@@ -1,5 +1,5 @@
 # Advent of Code 2017
-# Day 09; Puzzle 20
+# Day 10; Puzzle 20
 
 # iterable list
 h = list(range(0, 256))
