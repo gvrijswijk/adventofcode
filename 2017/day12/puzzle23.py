@@ -22,6 +22,5 @@ for item in d2:
     for item2 in d1[item]:
         if item2 not in d2:
             d2.append(item2)
-            c += 1
 
 print(len(d2))
