@@ -24,10 +24,12 @@ for k in d1:
     if k not in list(itertools.chain(d2)):
         d2.append([])
         d2[-1].append(k)
+        #print(d2)
         for item in d2[-1]:
             for item2 in d1[item]:
                 if item2 not in list(itertools.chain(d2)):
                     d2[-1].append(item2)
+                    print(d2)
                     c += 1
-            print(len(d2[0]))
+
 print(len(d2))

@@ -6,6 +6,7 @@ def parse(row):
 def find_group(links, start=0):
     """BFS for all elements of group"""
     queue = set([start])
+    print(queue)
     group = set()
     while queue:
         n = queue.pop()

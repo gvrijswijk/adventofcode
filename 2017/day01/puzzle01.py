@@ -8,7 +8,7 @@ with open('input.txt') as input:
     x = input.read().strip()
 
 # Iterate through the list
-for i in range(len(x)):
+for i in str(x):
     if x[i-1] == x[i]:
        solution += int(x[i])
 
