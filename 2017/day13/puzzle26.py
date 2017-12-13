@@ -25,6 +25,7 @@ for fw in firewalls:
 print("Part 1: " + str(c) +" points")
 
 # Brute forcing part 2
+# TODO: Implementing Chinese Remainder Theorem
 
 while True:
     c = 0
