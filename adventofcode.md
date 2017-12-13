@@ -1,0 +1,2 @@
+- Implementing Chinese Remainder Theorem __TODO__ [2017/day13/puzzle26.py](2017/day13/puzzle26.py)
+- Popping is the issue? __TODO__ [2017/day12/puzzle24.py](2017/day12/puzzle24.py)
