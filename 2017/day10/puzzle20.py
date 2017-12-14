@@ -13,6 +13,7 @@ solution = ""
 
 with open('input.txt') as input:
     x = input.read().strip()
+    x = "flqrgnkx-0"
     y = ""
     for i in range(len(x)):
         y = y + str(ord(x[i])) + ","
@@ -41,6 +42,7 @@ with open('input.txt') as input:
         q = 0
         for m in range(16):
             q = q ^ h[l * 16 + m]
+            print(q)
         if len(format(q, '02x')) == 1:
             solution = solution + "0" + format(q, '02x')
         else:
