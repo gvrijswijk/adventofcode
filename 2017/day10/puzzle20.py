@@ -13,7 +13,7 @@ solution = ""
 
 with open('input.txt') as input:
     x = input.read().strip()
-    x = "flqrgnkx-0"
+    #x = "flqrgnkx-0"
     y = ""
     for i in range(len(x)):
         y = y + str(ord(x[i])) + ","

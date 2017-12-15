@@ -1,2 +1,5 @@
 - Implementing Chinese Remainder Theorem __TODO__ [2017/day13/puzzle26.py](2017/day13/puzzle26.py)
 - Popping is the issue? __TODO__ [2017/day12/puzzle24.py](2017/day12/puzzle24.py)
+- Study this solution; conceptually this is what I wanted __TODO__ [2017/day14/puzzle28.py](2017/day14/puzzle28.py)
+- Why is this masking different from bin(y)[2:].zfill(32) __NOTE__ [2017/day15/puzzle29.py](2017/day15/puzzle29.py)
+- Why is this masking working __NOTE__ [2017/day15/puzzle29.py](2017/day15/puzzle29.py)
