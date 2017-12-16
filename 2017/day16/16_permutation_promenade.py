@@ -2,6 +2,8 @@
 
 # Advent of Code 2017 - 01 Inverse Captcha
 
+# TODO: Refactor this file: general function is in there 3 times
+
 import time
 import re
 
