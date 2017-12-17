@@ -1,0 +1,7 @@
+- Clean up what_is __TODO__ [2017/17_spinlock.py](2017/17_spinlock.py)
+- how does this masking work __NOTE__ [2017/day15/puzzle29.py](2017/day15/puzzle29.py)
+- Implementing Chinese Remainder Theorem __TODO__ [2017/day13/puzzle26.py](2017/day13/puzzle26.py)
+- Popping is the issue? __TODO__ [2017/day12/puzzle24.py](2017/day12/puzzle24.py)
+- Read up on lambda + does it matter when input % 4 =0 (ie input 116 %4 =0) __TODO__ [2017/day15/puzzle29.py](2017/day15/puzzle29.py)
+- Refactor this file: general function is in there 3 times __TODO__ [2017/day16/16_permutation_promenade.py](2017/day16/16_permutation_promenade.py)
+- Study this solution; conceptually this is what I wanted __TODO__ [2017/day14/puzzle28.py](2017/day14/puzzle28.py)
