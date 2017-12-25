@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# Advent of Code 2017 = 17 Spinlock
+# Advent of Code 2017 - 17 Spinlock
 
 input = 382
 #input = 3 #Test
