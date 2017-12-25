@@ -3,6 +3,8 @@
 
 # Advent of Code 2017 - 18 Duet
 
+# TODO: Integrate solution 1 and 2.
+
 def RepsInt(x, d):
     try:
         int(x) % 1 == 0

@@ -52,6 +52,8 @@ def process(pid, k, input, register, queue, sent):
 
 if __name__ == "__main__":
 
+# TODO: Create a proper program. Now counts and stops increasing, want it to stop properly.
+
     input = []
     queue = [[], []]
     p = [0, 0]
