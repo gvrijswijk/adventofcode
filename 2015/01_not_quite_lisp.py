@@ -8,10 +8,10 @@ print("Part 1: " + str(input.count('(') - input.count(')')))
 score = 0
 i = 0
 while score >= 0:
-    i = i + 1
-    if input[i - 1] == '(':
+    if input[i] == '(':
         score += 1
     else:
         score -= 1
+    i += 1
 
 print("Part 2: " + str(i))
